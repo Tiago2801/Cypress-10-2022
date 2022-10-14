@@ -1,0 +1,4 @@
+{
+    "baseUrl": "http://antoniotrindade.com.br/treinoautomacao",
+    "defaultComandTimeout":6000
+}
